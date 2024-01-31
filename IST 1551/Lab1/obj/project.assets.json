@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jordanmassey/dev/ist1551/Lab1/Lab1.csproj",
+      "projectUniqueName": "/Users/jordanmassey/dev/IST/IST 1551/Lab1/Lab1.csproj",
       "projectName": "Lab1",
-      "projectPath": "/Users/jordanmassey/dev/ist1551/Lab1/Lab1.csproj",
+      "projectPath": "/Users/jordanmassey/dev/IST/IST 1551/Lab1/Lab1.csproj",
       "packagesPath": "/Users/jordanmassey/.nuget/packages/",
-      "outputPath": "/Users/jordanmassey/dev/ist1551/Lab1/obj/",
+      "outputPath": "/Users/jordanmassey/dev/IST/IST 1551/Lab1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jordanmassey/.nuget/NuGet/NuGet.Config"
