@@ -13,3 +13,18 @@
 /Users/jordanmassey/dev/ist1551/Lab1/obj/Debug/net6.0/Lab1.pdb
 /Users/jordanmassey/dev/ist1551/Lab1/obj/Debug/net6.0/Lab1.genruntimeconfig.cache
 /Users/jordanmassey/dev/ist1551/Lab1/obj/Debug/net6.0/ref/Lab1.dll
+/Users/jordanmassey/dev/IST/IST 1551/Lab1/bin/Debug/net6.0/Lab1
+/Users/jordanmassey/dev/IST/IST 1551/Lab1/bin/Debug/net6.0/Lab1.deps.json
+/Users/jordanmassey/dev/IST/IST 1551/Lab1/bin/Debug/net6.0/Lab1.runtimeconfig.json
+/Users/jordanmassey/dev/IST/IST 1551/Lab1/bin/Debug/net6.0/Lab1.dll
+/Users/jordanmassey/dev/IST/IST 1551/Lab1/bin/Debug/net6.0/Lab1.pdb
+/Users/jordanmassey/dev/IST/IST 1551/Lab1/obj/Debug/net6.0/Lab1.csproj.AssemblyReference.cache
+/Users/jordanmassey/dev/IST/IST 1551/Lab1/obj/Debug/net6.0/Lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jordanmassey/dev/IST/IST 1551/Lab1/obj/Debug/net6.0/Lab1.AssemblyInfoInputs.cache
+/Users/jordanmassey/dev/IST/IST 1551/Lab1/obj/Debug/net6.0/Lab1.AssemblyInfo.cs
+/Users/jordanmassey/dev/IST/IST 1551/Lab1/obj/Debug/net6.0/Lab1.csproj.CoreCompileInputs.cache
+/Users/jordanmassey/dev/IST/IST 1551/Lab1/obj/Debug/net6.0/Lab1.dll
+/Users/jordanmassey/dev/IST/IST 1551/Lab1/obj/Debug/net6.0/refint/Lab1.dll
+/Users/jordanmassey/dev/IST/IST 1551/Lab1/obj/Debug/net6.0/Lab1.pdb
+/Users/jordanmassey/dev/IST/IST 1551/Lab1/obj/Debug/net6.0/Lab1.genruntimeconfig.cache
+/Users/jordanmassey/dev/IST/IST 1551/Lab1/obj/Debug/net6.0/ref/Lab1.dll

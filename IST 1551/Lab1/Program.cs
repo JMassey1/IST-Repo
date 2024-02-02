@@ -1,14 +1,9 @@
 ﻿// IST 1551 Lab 1, Jordan Massey, 1/31/2024
 
+string name;
+
 Console.WriteLine("Bread is ready.");
 Console.WriteLine("Who is the bread for?");
-
-String name = Console.ReadLine() ?? string.Empty;
-
-while(name.Equals(string.Empty))
-{
-    Console.WriteLine("Please input a name");
-    name = Console.ReadLine() ?? string.Empty;
-}
+name = Console.ReadLine() ?? "No one";
 
 Console.WriteLine($"Noted: {name} got bread.");
