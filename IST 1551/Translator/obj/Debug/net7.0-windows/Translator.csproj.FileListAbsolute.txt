@@ -1,0 +1,17 @@
+C:\dev\IST\IST 1551\Translator\bin\Debug\net7.0-windows\Translator.exe
+C:\dev\IST\IST 1551\Translator\bin\Debug\net7.0-windows\Translator.deps.json
+C:\dev\IST\IST 1551\Translator\bin\Debug\net7.0-windows\Translator.runtimeconfig.json
+C:\dev\IST\IST 1551\Translator\bin\Debug\net7.0-windows\Translator.dll
+C:\dev\IST\IST 1551\Translator\bin\Debug\net7.0-windows\Translator.pdb
+C:\dev\IST\IST 1551\Translator\obj\Debug\net7.0-windows\Translator.csproj.GenerateResource.cache
+C:\dev\IST\IST 1551\Translator\obj\Debug\net7.0-windows\Translator.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\IST\IST 1551\Translator\obj\Debug\net7.0-windows\Translator.AssemblyInfoInputs.cache
+C:\dev\IST\IST 1551\Translator\obj\Debug\net7.0-windows\Translator.AssemblyInfo.cs
+C:\dev\IST\IST 1551\Translator\obj\Debug\net7.0-windows\Translator.csproj.CoreCompileInputs.cache
+C:\dev\IST\IST 1551\Translator\obj\Debug\net7.0-windows\Translator.sourcelink.json
+C:\dev\IST\IST 1551\Translator\obj\Debug\net7.0-windows\Translator.dll
+C:\dev\IST\IST 1551\Translator\obj\Debug\net7.0-windows\refint\Translator.dll
+C:\dev\IST\IST 1551\Translator\obj\Debug\net7.0-windows\Translator.pdb
+C:\dev\IST\IST 1551\Translator\obj\Debug\net7.0-windows\Translator.genruntimeconfig.cache
+C:\dev\IST\IST 1551\Translator\obj\Debug\net7.0-windows\ref\Translator.dll
+C:\dev\IST\IST 1551\Translator\obj\Debug\net7.0-windows\Translator.Translator.resources
