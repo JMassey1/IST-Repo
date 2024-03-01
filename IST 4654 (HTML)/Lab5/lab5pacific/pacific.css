@@ -3,14 +3,18 @@ body {
   color: #666666;
 }
 
-h1 {
+header {
   background-color: #002171;
   color: #ffffff;
   background-image: url(sunset.jpg);
   background-position: right;
   background-repeat: no-repeat;
-  line-height: 400%; /* 200% looks more like the picture provided */
+  line-height: 400%;
   text-indent: 1em;
+  margin: 0;
+}
+
+header h1.header-title {
   margin: 0;
 }
 
