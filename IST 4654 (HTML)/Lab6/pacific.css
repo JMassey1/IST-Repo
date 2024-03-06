@@ -1,0 +1,81 @@
+/* Custom Properties -- DON'T SUBMIT WITH THIS, MIGHT LOSE POINTS */
+:root {
+  --main-font-family: Georgia, "Times New Roman", serif;
+}
+
+/* Body styles */
+body {
+  background-color: #ffffff;
+  color: #666666;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Main styles */
+main:not(img) {
+  margin: 0 10%;
+}
+
+/* Header styles */
+header {
+  background-color: #002171;
+  color: #ffffff;
+  background-image: url(sunset.jpg);
+  background-position: right;
+  background-repeat: no-repeat;
+  line-height: 400%;
+  text-indent: 1em;
+  margin: 0;
+}
+
+/* Footer styles */
+footer {
+  font-size: 75%;
+  font-style: italic;
+  text-align: center;
+  font-family: var(--main-font-family);
+}
+
+/* Remove margin for h1 tags, with the class "header-title", that are in the header section */
+header h1.header-title {
+  margin: 0;
+}
+
+/* Nav styles */
+nav {
+  background-color: #90c7e3;
+  font-weight: bold;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+/* h-tags (h1, h2, etc.) styles */
+h1 {
+  font-family: var(--main-font-family);
+}
+
+h2 {
+  color: #3399cc;
+  font-family: var(--main-font-family);
+}
+
+h3 {
+  color: #000066;
+  font-family: var(--main-font-family);
+}
+
+/* List styles */
+ul {
+  list-style-image: url(marker.gif);
+}
+
+/* Table styles */
+dt {
+  color: #000033;
+}
+
+.resort {
+  color: #3399cc;
+  font-weight: bold;
+}
