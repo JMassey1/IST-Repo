@@ -1,18 +1,8 @@
-/* Custom Properties -- DON'T SUBMIT WITH THIS, MIGHT LOSE POINTS */
-:root {
-  --main-font-family: Georgia, "Times New Roman", serif;
-}
-
 /* Body styles */
 body {
   background-color: #ffffff;
   color: #666666;
   font-family: Arial, Helvetica, sans-serif;
-}
-
-/* Main styles */
-main:not(img) {
-  margin: 0 10%;
 }
 
 /* Header styles */
@@ -32,7 +22,7 @@ footer {
   font-size: 75%;
   font-style: italic;
   text-align: center;
-  font-family: var(--main-font-family);
+  font-family: Georgia, "Times New Roman", serif;
 }
 
 /* Remove margin for h1 tags, with the class "header-title", that are in the header section */
@@ -52,20 +42,20 @@ nav a {
 
 /* h-tags (h1, h2, etc.) styles */
 h1 {
-  font-family: var(--main-font-family);
+  font-family: Georgia, "Times New Roman", serif;
 }
 
 h2 {
   color: #3399cc;
-  font-family: var(--main-font-family);
+  font-family: Georgia, "Times New Roman", serif;
 }
 
 h3 {
   color: #000066;
-  font-family: var(--main-font-family);
+  font-family: Georgia, "Times New Roman", serif;
 }
 
-/* List styles */
+/* List styles ------------------------*/
 ul {
   list-style-image: url(marker.gif);
 }
@@ -75,6 +65,7 @@ dt {
   color: #000033;
 }
 
+/* Class styles -----------------------*/
 .resort {
   color: #3399cc;
   font-weight: bold;
