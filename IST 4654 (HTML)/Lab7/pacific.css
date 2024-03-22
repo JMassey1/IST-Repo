@@ -1,0 +1,72 @@
+/* Body styles */
+body {
+  background-color: #ffffff;
+  color: #666666;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Header styles */
+header {
+  background-color: #002171;
+  color: #ffffff;
+  background-image: url(sunset.jpg);
+  background-position: right;
+  background-repeat: no-repeat;
+  line-height: 400%;
+  text-indent: 1em;
+  margin: 0;
+}
+
+/* Footer styles */
+footer {
+  font-size: 75%;
+  font-style: italic;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+/* Remove margin for h1 tags, with the class "header-title", that are in the header section */
+header h1.header-title {
+  margin: 0;
+}
+
+/* Nav styles */
+nav {
+  background-color: #90c7e3;
+  font-weight: bold;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+/* h-tags (h1, h2, etc.) styles */
+h1 {
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+h2 {
+  color: #3399cc;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+h3 {
+  color: #000066;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+/* List styles ------------------------*/
+ul {
+  list-style-image: url(marker.gif);
+}
+
+/* Table styles */
+dt {
+  color: #000033;
+}
+
+/* Class styles -----------------------*/
+.resort {
+  color: #3399cc;
+  font-weight: bold;
+}
