@@ -1,6 +1,8 @@
 /* Body styles */
 body {
-  background-color: #ffffff;
+  background-color: #90c7e3;
+  background-image: linear-gradient(to bottom, #ffffff, #90c7e3);
+  background-repeat: no-repeat;
   color: #666666;
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -12,8 +14,9 @@ header {
   background-image: url(sunset.jpg);
   background-position: right;
   background-repeat: no-repeat;
-  line-height: 400%;
-  text-indent: 1em;
+  height: 60px;
+  text-align: center;
+  padding-top: 15px;
   margin: 0;
 }
 
@@ -23,6 +26,7 @@ footer {
   font-style: italic;
   text-align: center;
   font-family: Georgia, "Times New Roman", serif;
+  padding: 20px;
 }
 
 /* Remove margin for h1 tags, with the class "header-title", that are in the header section */
@@ -32,8 +36,10 @@ header h1.header-title {
 
 /* Nav styles */
 nav {
-  background-color: #90c7e3;
+  background-color: #ffffff;
   font-weight: bold;
+  text-align: center;
+  padding: 10px;
 }
 
 nav a {
@@ -43,6 +49,7 @@ nav a {
 /* h-tags (h1, h2, etc.) styles */
 h1 {
   font-family: Georgia, "Times New Roman", serif;
+  margin-top: 0;
 }
 
 h2 {
@@ -53,6 +60,12 @@ h2 {
 h3 {
   color: #000066;
   font-family: Georgia, "Times New Roman", serif;
+}
+
+/* Main style -------------------------*/
+main {
+  padding: 1px 20px 20px 20px;
+  display: block; /* For Internet Explorer */
 }
 
 /* List styles ------------------------*/
@@ -69,4 +82,14 @@ dt {
 .resort {
   color: #3399cc;
   font-weight: bold;
+}
+
+/* ID styles --------------------------*/
+#wrapper {
+  margin: 0 auto;
+  width: 80%;
+  background-color: #ffffff;
+  min-width: 960px;
+  max-width: 2048px;
+  box-shadow: 3px 3px 3px #333333;
 }
